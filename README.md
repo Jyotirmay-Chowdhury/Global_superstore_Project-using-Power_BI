@@ -1,5 +1,10 @@
 # Global_superstore_Project-using-Power_BI
 
+The dashboard looks like this:- 
+
+![DashboardPreview](https://github.com/Jyotirmay-Chowdhury/Global_superstore_Project-using-Power_BI/blob/main/Global_superstore_Project%20using%20Power_BI.jpg)
+
+
 # Abstract for the Global_Superstore project
 1) Global Superstore is a multinational retail organization that sells a wide range of
 products to customers all over the world.
